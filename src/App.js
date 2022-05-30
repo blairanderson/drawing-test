@@ -19,7 +19,7 @@ function App() {
   return (
     <div className="App">
       <header className="text-center">
-        <h1>Signature App</h1>
+        <h1>Cool Signature App</h1>
         <div className="btn-group" role="group" aria-label="Basic example">
           <button type="button" onClick={onClearClick} className="btn btn-danger">Clear</button>
           <button type="button" onClick={onSaveClick} className="btn btn-primary">Save</button>
