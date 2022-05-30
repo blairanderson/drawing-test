@@ -1,3 +1,12 @@
+# Video Walkthrough
+1. https://www.loom.com/share/c574f03dfd2e4440899820909856c7a9
+2. https://www.loom.com/share/fe91ac8f553a4c6cbe78392c351abd70
+3. https://www.loom.com/share/8a03bdf1665f4fe9a6ddc2e61fc3e884
+4. https://www.loom.com/share/f3d59ab835f44a06a51d37f7a9785dc3
+5. https://www.loom.com/share/f2fb882c980946168fcef2dd2b96b7b0
+6. https://www.loom.com/share/147aefef91df4fd1be74c07103955364
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
